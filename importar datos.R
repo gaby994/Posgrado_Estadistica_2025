@@ -15,7 +15,7 @@ summary(temperatura) #Resumen estadistico
 names(temperatura) <- c("Anual","Ene","Feb","Mar","Abr", "May","Jun","Jul","Ago","Sep","Oct","Nov","Dic")#Corregir nombre de columna
 
 write.csv(temperatura, "temp_final.csv")
-temperatura$media_anual <- rowMeans(temperatura[11:21])
+temperatura$media_anual <- rowMeans(temperatura[ ,2:13])
 temp <- (temperatura[, 2:13])
 temp10 <- temperatura[11:21, 2:13]
 temperatura[2,2]
@@ -33,9 +33,7 @@ boxplot(temp, col = colores,
 
 # Importar datos web ------------------------------------------------------
 
-url <-("https://repodatos.atdt.gob.mx/api_update/",
-       "senasica/actividades_inspeccion_movilizacion/",
-       "29_actividades-inspeccion-movilizacion.csv")
+url <-("https://repodatos.atdt.gob.mx/api_update/senasica/actividades_inspeccion_movilizacion/29_actividades-inspeccion-movilizacion.csv")
 senasica <- read.csv(url,header=T)
 
 
