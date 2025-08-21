@@ -2,3 +2,5 @@
 Material del curso de posgrado de Experimentación y métodos Estadisticos en MCF Y DCMN
 semana 1
 Jueves
+#semana2
+#semana3
