@@ -1,7 +1,7 @@
-#Ana Gabriela Gauna Rdz
-#21/08/25
-#semana 3
-#Importar datos de temperatura
+                   #Ana Gabriela Gauna Rdz
+                          #21/08/25
+                          #semana 3
+               #Importar datos de temperatura
 
 temperatura <- read.csv("C:/Users/Usuario/Desktop/temperatura.csv")
 View(temperatura)
@@ -11,7 +11,7 @@ dim(temperatura) #Número de filas y columnas
 names(temperatura) #Nombres de las columnas
 str(temperatura) #Estructura del data frame
 
-summary(temperatura) #Resumen estadistico
+summary(temperatura) #Resumen estadístico
 names(temperatura) <- c("Anual","Ene","Feb","Mar","Abr", "May","Jun","Jul","Ago","Sep","Oct","Nov","Dic")#Corregir nombre de columna
 
 write.csv(temperatura, "temp_final.csv")
@@ -28,7 +28,7 @@ boxplot(temp, col = colores,
         ylab ="Temperatura (c)"
         )
 
-
+tinytex::tinytex_root()
 
 
 # Importar datos web ------------------------------------------------------
