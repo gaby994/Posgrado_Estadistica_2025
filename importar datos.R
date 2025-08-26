@@ -33,8 +33,22 @@ tinytex::tinytex_root()
 
 # Importar datos web ------------------------------------------------------
 
+
 url <-("https://repodatos.atdt.gob.mx/api_update/senasica/actividades_inspeccion_movilizacion/29_actividades-inspeccion-movilizacion.csv")
-senasica <- read.csv(url,header=T)
+url2<-paste("https://repodatos.atdt.gob.mx/api_update/senasica/",
+            "actividades_inspeccion_movilizacion/",
+            "29_actividades-inspeccion-movilizacion.csv"
+) 
+senasica <-read.csv(url,header=T)
+read.csv("https://repodatos.atdt.gob.mx/api_update/senasica/actividades_inspeccion_movilizacion/29_actividades-inspeccion-movilizacion.csv")
+senasica <- read.csv(url,header = T)
+View(senasica)
+tinytex::tinytex_root()
+
+
+
+
+
 
 
 
