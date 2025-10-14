@@ -1,6 +1,6 @@
                #Laboratorio 1
             #Ana Gabriela Gauna Rodríguez 
-                #31-08-2025
+                #14/08/25
 
 # Parte 1 Gastos ----------------------------------------------------------
 
