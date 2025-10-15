@@ -65,7 +65,7 @@ barplot(gastos_ordenados,
 #Dirección:cualitativa
 #Número de teléfono:cualitativa
 #Área principal de estudio:cualitativa
-#Grado de año universitario: cuantitativo
+#Grado de año universitario: cualitativo
 #Puntaje en la prueba de mitad de período: cuantitativa
 #Calificación general:cuantitativo 
 #Tiempo(en minutos)para completar la prueba final de MCF:cuantitativa
