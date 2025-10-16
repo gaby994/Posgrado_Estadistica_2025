@@ -6,12 +6,12 @@
 ### El curso de Experimentación y Métodos Estadísticos se centra en proporcionar herramientas necesarias para llevar a cabo análisis estadísticos aplicados utilizando RStudio. Durante las ocho semanas del curso, se exploraron diversas técnicas de análisis de datos, desde operaciones básicas y creación de gráficos hasta pruebas estadísticas avanzadas como la prueba t, ANOVA y regresión lineal. A lo largo del curso se aprende a trabajar con bases de datos reales, organizar el trabajo en repositorios de GitHub y aplicar métodos estadísticos en situaciones prácticas, especialmente en el ámbito ecológico y forestal.
  
 ## Objetivos🔥🎯
- ✔️ + Aprender a usar RStudio y organizar proyectos con GitHub.
- ✔️ + Aplicar técnicas estadísticas como prueba t, ANOVA y regresión lineal.
- ✔️+ Trabajar con bases de datos reales y analizarlas en R.
- ✔️+ Verificar supuestos estadísticos y realizar pruebas post-hoc.
- ✔️ + Crear gráficos estadísticos para interpretar resultados.
- ✔️ + Desarrollar un pensamiento crítico para evaluar datos en investigaciones, especialmente en áreas ecológicas y forestales.
+  ✔️ + Aprender a usar RStudio y organizar proyectos con GitHub.
+  ✔️ + Aplicar técnicas estadísticas como prueba t, ANOVA y regresión lineal.
+  ✔️ + Trabajar con bases de datos reales y analizarlas en R.
+  ✔️ + Verificar supuestos estadísticos y realizar pruebas post-hoc.
+  ✔️ + Crear gráficos estadísticos para interpretar resultados.
+  ✔️ + Desarrollar un pensamiento crítico para evaluar datos en investigaciones, especialmente en áreas ecológicas y forestales.
 
  
  ✅**Semana 1** (07-08-25) 
