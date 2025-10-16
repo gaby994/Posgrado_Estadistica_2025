@@ -1,8 +1,8 @@
-## Posgrado_Estadistica_2025
+## Posgrado_Estadistica_2025🤗🤩
 # Material del curso de posgrado de Experimentación y métodos Estadísticos en MCF Y DCMN
 # Contenido del curso (8 semanas)
 
-## Introducción
+## Introducción❤️.
 ### El curso de Experimentación y Métodos Estadísticos se centra en proporcionar herramientas necesarias para llevar a cabo análisis estadísticos aplicados utilizando RStudio. Durante las ocho semanas del curso, se exploraron diversas técnicas de análisis de datos, desde operaciones básicas y creación de gráficos hasta pruebas estadísticas avanzadas como la prueba t, ANOVA y regresión lineal. A lo largo del curso se aprende a trabajar con bases de datos reales, organizar el trabajo en repositorios de GitHub y aplicar métodos estadísticos en situaciones prácticas, especialmente en el ámbito ecológico y forestal.
  
 ## Objetivos🔥🎯
@@ -47,7 +47,7 @@
  + En esta semana se trabajó con regresión lineal la cual sirve para ver la relación que tiene una variable dependiente con una variable independiente. Se utiliza el modelo lm, también se usa la fórmula de regresión lineal en donde se obtiene la pendiente, esta puede ser negativa o positiva. También se habló de homocedasticidad y el paquete que se puede instalar para analizarse. 
  + Se trabajó en elScript_9_25-09-25
  
- **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
+ **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)😢
  
 
 ![contribuciones](contribuciones.png)
