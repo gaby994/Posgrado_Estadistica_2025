@@ -2,7 +2,10 @@
 # Material del curso de posgrado de Experimentación y métodos Estadisticos en MCF Y DCMN
 # Contenido del curso (8 semanas)
 
- **Semana 1**(07-08-25)
+## Introducción
+### El curso de Experimentación y Métodos Estadísticos se centra en proporcionar herramientas necesarias para llevar a cabo análisis estadísticos aplicados utilizando RStudio. Durante las ocho semanas del curso, se exploraron diversas técnicas de análisis de datos, desde operaciones básicas y creación de gráficos hasta pruebas estadísticas avanzadas como la prueba t, ANOVA y regresión lineal. A lo largo del curso se aprende a trabajar con bases de datos reales, organizar el trabajo en repositorios de GitHub y aplicar métodos estadísticos en situaciones prácticas, especialmente en el ámbito ecológico y forestal.
+ 
+ **Semana 1** (07-08-25) emo::ji("rocket")
  + Durante esa semana se trabajó en la configuración inicial para trabajar durante el curso.  Esto incluyó la creación de un repositorio en el disco c y en GitHub con el propósito de organizar y respaldar las actividades del curso, tales como laboratorios, scripts y tareas. Además, se realizó la vinculación del repositorio con RStudio, para trabajar directamente, facilitando el control de versiones mediante GitHub
  + Se trabajó en el Script_1_07-08-25 
 
@@ -33,3 +36,4 @@
 
  **Semana 8** (25-09-25)
  + En esta semana se trabajó con regresión lineal la cual sirve para ver la relación que tiene una variable dependiente con una variable independiente. Se utiliza el modelo lm, también se usa la fórmula de regresión lineal en donde se obtiene la pendiente, esta puede ser negativa o positiva. También se habló de homocedasticidad y el paquete que se puede instalar para analizarse. 
+ + Se trabajó en elScript_9_25-09-25
