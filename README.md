@@ -1,5 +1,5 @@
 ## Posgrado_Estadistica_2025
-# Material del curso de posgrado de Experimentación y métodos Estadisticos en MCF Y DCMN
+# Material del curso de posgrado de Experimentación y métodos Estadísticos en MCF Y DCMN
 # Contenido del curso (8 semanas)
 
 ## Introducción
@@ -48,7 +48,7 @@
  + Se trabajó en elScript_9_25-09-25
  
  **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
- ![Gráfica](C:/Repositorio Gaby 1/contribuciones 1.png)
+ ![Gráfica](C:/Users/Usuario/Desktop/Posgrado_Estadistica_2025/Gráfica de contribuciones.png)
 
  
   **Repositorio creado por Ing. Ana Gabriela Gauna Rodríguez**
