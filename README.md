@@ -7,8 +7,8 @@
  + Se trabajó en el Script_1_07-08-25 
 
  **Semana 2** (14-08-25)
-+•Se realizó una parte del Laboratorio 1, que posteriormente se envió. Realizamos la asignación de objetos, la elaboración de operaciones básicas, agregar comentarios después del # y la creación de gráficas como  barplot.
-+Se trabajó en el Script_2_14-08-25 y Laboratorio_1.pdf_01-9-25
+ + Se realizó una parte del Laboratorio 1, que posteriormente se envió. Realizamos la asignación de objetos, la elaboración de operaciones básicas, agregar comentarios después del # y la creación de gráficas como  barplot.
+ + Se trabajó en el Script_2_14-08-25 y Laboratorio_1.pdf_01-9-25
 
 **Semana 3** (21-08-25)
  + Se aprendió a cargar una base de datos en formato CSV y a leerla en RStudio para trabajar con ella. Se exploró la estructura del archivo, se modificaron los nombres de las columnas y se guardó el documento con los cambios. Además, se generó un resumen estadístico y un diagrama de cajas (boxplot). También se practicó cómo importar datos desde una URL para trabajar con información disponible en línea y compilar. 
