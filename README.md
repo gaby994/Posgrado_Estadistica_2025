@@ -49,7 +49,7 @@
  
  **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
  
- ![Gráfica](C:/Users/Usuario/Desktop/Posgrado_Estadistica_2025/Gráfica de contribuciones.png)
+ ![Gráfica de contribuciones](imagenes/gráfica de contribuciones.png)
 
  
   **Repositorio creado por Ing. Ana Gabriela Gauna Rodríguez**
