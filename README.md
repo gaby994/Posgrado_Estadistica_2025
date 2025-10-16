@@ -48,7 +48,8 @@
  + Se trabajó en elScript_9_25-09-25
  
  **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
- ![Gráfica de contribuciones](C:/Repositorio Gaby 1/contribuciones 1.png)
+ ![Gráfica](C:/Repositorio Gaby 1/contribuciones 1.png)
+
  
   **Repositorio creado por Ing. Ana Gabriela Gauna Rodríguez**
  
