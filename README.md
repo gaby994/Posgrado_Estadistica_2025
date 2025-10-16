@@ -50,7 +50,7 @@
  **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
  
  ![Gráfica de contribuciones](C:/Repositorio Gaby 1/Posgrado_Estadistica_2025/contribuciones.png)
-
+![contribuciones](contribuciones.png)
  
   **Repositorio creado por Ing. Ana Gabriela Gauna Rodríguez** 
   
