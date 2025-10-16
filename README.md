@@ -48,6 +48,7 @@
  + Se trabajó en elScript_9_25-09-25
  
  **La gráfica muestra las contribuciones realizadas** (Hasta Octubre 2025)
+ 
  ![Gráfica](C:/Users/Usuario/Desktop/Posgrado_Estadistica_2025/Gráfica de contribuciones.png)
 
  
