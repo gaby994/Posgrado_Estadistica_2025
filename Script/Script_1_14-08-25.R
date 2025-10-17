@@ -1,7 +1,7 @@
                #Laboratorio 1
             #Ana Gabriela Gauna Rodríguez 
                 #14/08/25
-#Script 2 también
+#Script 1 también
 # Parte 1 Gastos ----------------------------------------------------------
 
 
